@@ -1,0 +1,4 @@
+bad.cpp:542:20: error: no member named 'thisDoesNotExist' in 'ACAN2517FD'
+  542 | void bogus() { can.thisDoesNotExist(1); }
+      |                ~~~ ^
+1 error generated.
