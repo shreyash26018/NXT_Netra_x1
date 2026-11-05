@@ -1,0 +1,1 @@
+OK: NXT Netra Studio Native 2.2.0 (native engine, Studio 1.8.0); frames from the simulator: 618; link: NativeLink; DBC decode: 2330.0; plot signals: ['MUX.CH0']; plot area 1086x624px

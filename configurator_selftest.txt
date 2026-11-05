@@ -1,0 +1,1 @@
+OK: NXT Netra Configurator Native 2.2.0 (native engine); engine loaded: True; hello over the engine: firmware (1, 8, 0)

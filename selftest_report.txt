@@ -1,0 +1,11 @@
+ok    trace start
+ok    trace stop
+ok    records stored: got 100100, expected 100100
+ok    can frames counted: got 100000, expected 100000
+ok    analog samples counted: got 100, expected 100
+ok    different (channel, id): got 48, expected 48
+ok    plotted signal has samples
+ok    plot windows with data: got 1, expected 1
+ok    header written
+ok    csv state: got 2, expected 2
+ok    csv rows: got 100100, expected 100100
